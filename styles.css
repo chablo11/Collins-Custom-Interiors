@@ -4,7 +4,7 @@
 @media all and (max-width: 1136px){
 	
 	#myImg{
-		max-width: 80px;
+		max-width: 60px;
 		margin: 15% 1%;
 	}
 	
@@ -54,7 +54,7 @@
 		list-style-type: none;
 		color: #f2a236;
 		text-decoration: none;
-		font-size: 20px;
+		font-size: 40px;
 	}
 	
 	.videos{
@@ -690,7 +690,7 @@
 @media all and (min-width: 1137px){
 	
 	#myImg{
-		max-width: 80px;
+		max-width: 60px;
 		float: right;
 		clear: right;
 		margin: -.4% 4.5%;
