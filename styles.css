@@ -11,7 +11,7 @@
 	.scroll-left{
 		background-color: black;
 		overflow: hidden;
-		color: red;
+		color: white;
 		text-transform: uppercase;
 		position: relative;
 		height: 50px;
@@ -26,7 +26,7 @@
 		margin: 0;
 		text-align: center;
 		transform: translateX(100%);
-		animation: scroll-left 15s linear infinite;
+		animation: scroll-left 25s linear infinite;
 	}
 	
 	@keyframes scroll-left{
@@ -699,7 +699,7 @@
 	.scroll-left{
 		background-color: black;
 		overflow: hidden;
-		color: red;
+		color: white;
 		text-transform: uppercase;
 		position: relative;
 		height: 50px;
@@ -714,7 +714,7 @@
 		margin: 0;
 		text-align: center;
 		transform: translateX(100%);
-		animation: scroll-left 15s linear infinite;
+		animation: scroll-left 25s linear infinite;
 	}
 	
 	@keyframes scroll-left{
