@@ -58,6 +58,13 @@
 	}
 	
 	.videos{
+		display: none;
+		flex-wrap: wrap;
+		justify-content: center;
+		align-content: center;
+	}
+	
+	.videos2{
 		display: flex;
 		flex-wrap: wrap;
 		justify-content: center;
@@ -735,6 +742,13 @@
 	
 	.videos{
 		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		align-content: center;
+	}
+	
+	.videos2{
+		display: none;
 		flex-wrap: wrap;
 		justify-content: center;
 		align-content: center;
